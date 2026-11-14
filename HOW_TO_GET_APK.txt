@@ -1,0 +1,6 @@
+1. Make a free account at github.com and create a new repository (Private is fine).
+2. Click "uploading an existing file" and drag in EVERYTHING inside this Jarvis folder
+   (including the hidden .github folder), then Commit.
+3. Open the "Actions" tab -> "Build Jarvis APK" -> wait about 5 minutes for the green check.
+4. Open the finished run, scroll to "Artifacts", download Jarvis-APK, unzip it, and send app-debug.apk to your phone.
+5. On the Tecno, open the APK and allow "Install unknown apps" when asked.
